@@ -9,9 +9,9 @@ A pretty small ajax js library.
 ```
 
 <dl>
-  <dd>method</dd><dt>HTTP verb, i.e. `'GET'`, `'POST'`, etc.</dt>
-  <dd>url</dd><dt>The url to access.</dt>
-  <dd>form</dd><dt>A form containing data to submit</dt>
-  <dd>success</dd><dt>A callback that contains the returned data, which gets called on success.</dt>
-  <dd>error</dd><dt>A callback that contains the returned data, which gets called on error.</dt>
+  <dt>method</dt><dd>HTTP verb, i.e. `'GET'`, `'POST'`, etc.</dd>
+  <dt>url</dt><dd>The url to access.</dd>
+  <dt>form</dt><dd>A form containing data to submit</dd>
+  <dt>success</dt><dd>A callback that contains the returned data, which gets called on success.</dd>
+  <dt>error</dt><dd>A callback that contains the returned data, which gets called on error.</dd>
 </dl>
